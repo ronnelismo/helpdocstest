@@ -1,6 +1,6 @@
 ---
 post_title: 'About Page'
-layout: post
+layout: page
 published: true
 ---
 ### What is Lorem Ipsum?
